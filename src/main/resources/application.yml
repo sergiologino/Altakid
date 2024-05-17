@@ -1,1 +1,5 @@
 spring.application.name=AltakidMain
+spring:
+  main:
+    allow-circular-references: true
+
